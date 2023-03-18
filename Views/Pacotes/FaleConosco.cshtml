@@ -1,0 +1,38 @@
+@model FaleConosco
+@{
+    ViewData["Title"] = "Contato-Expresso União";
+}
+<body>
+<div class="titulo2">
+<h1>@ViewData["Title"]</h1>
+
+<h2>Tem alguma dúvida, sugestão ou reclamação?</h2>
+<p>Envie uma mensagem utilizando o formulário.</p>
+<form method="POST"  id="formPrincipal">
+    <p>
+        <label asp-for="Nome">Nome Completo:</label>
+        <input asp-for="Nome" type="text" placeholder="Digite  seu nome" required/>
+    </p>
+    <p>
+        <label asp-for="Email">E-mail:</label>
+        <input asp-for="Email" id="Email" type="email" placeholder="Digite  seu E-mail" onblur="validaemail()"  required/>
+    </p>
+    <p>
+        <label asp-for="Telefone">Telefone:</label>
+        <input asp-for="Telefone" type="tel" placeholder="Digite  seu Telefone" required/>
+    </p>
+    <p>
+        <textarea asp-for="Mensagem" placeholder="Mensagem">Mensagem:</textarea>
+    </p>
+    <input type="submit" value="Enviar Mensagem">
+    <p>@ViewBag.FaleConosco</p>
+</form>
+ <script type="text/javascript" src="~/js/site.js"></script>
+</div>
+ <footer class="footer">
+        <div >
+            &copy; 2022 - Passagens Online - <a asp-area="" asp-controller="Home" asp-action="Index">Expresso União</a>
+        </div>
+    </footer>
+   
+</body>

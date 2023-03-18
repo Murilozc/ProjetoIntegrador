@@ -1,0 +1,39 @@
+@model IEnumerable<Pacotes>
+@{
+    ViewData["Title"] = "Lista Pacotes Cadastrados";
+}
+<div class="titulo3">
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Origem</th>
+            <th>Destino</th>
+            <th>Saida</th>
+            <th>Valor</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    @foreach (Pacotes p in Model)
+    {
+        <tr>
+            <td>@p.Id</td>
+            <td>@p.Nome</td>
+            <td>@p.Origem</td>
+            <td>@p.Destino</td>
+            <td>@p.Saida</td>
+            <td>@p.Valor</td>
+            <th>
+            <a href="/Pacotes/Editar?Id=@p.Id">Editar</a>
+            <a href="/Pacotes/Remover?Id=@p.Id">Remover</a>
+            </th>
+            </tr>
+    }
+</table>
+</div>
+ <footer class="footer">
+        <div >
+            &copy; 2022 - Passagens Online - <a asp-area="" asp-controller="Home" asp-action="Index">Expresso União</a>
+        </div>
+</footer>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nFo8z0XAcj7iunC+hLdHMdfRn1+hDdGXOk1NEC1brQCMea58y2P8TNv/RG4GaN3nH6szuFaFiLjojIrecpPSsg==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\infor\\Projeto Int\\modulo2\\ProjetoI4\\ProjetoI4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Murilo\\.nuget\\packages\\mysqlconnector\\2.1.13\\mysqlconnector.2.1.13.nupkg.sha512",
+    "C:\\Users\\Murilo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

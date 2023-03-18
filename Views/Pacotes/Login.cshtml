@@ -1,0 +1,29 @@
+@using Microsoft.AspNetCore.Http;
+@model Usuario
+@{
+    ViewData["Title"] = "Login";
+}
+<div class="titulo3">
+<form method="POST" asp-action = "Login">
+<h1>Acessar Conta</h1>
+<p>Realize o login para ter acesso a outras operações.</p>
+<p>
+    <label asp-for="Login">Login</label>
+    <input asp-for="Login">
+</p>
+<p>
+    <label asp-for="Senha">Senha</label>
+    <input asp-for="Senha">
+</p>
+<input type="Submit" value="Entrar">
+</form>
+
+<p>
+    @ViewBag.Mensagem
+</p>
+</div>
+ <footer class="footer">
+        <div >
+            &copy; 2022 - Passagens Online - <a asp-area="" asp-controller="Home" asp-action="Index">Expresso União</a>
+        </div>
+</footer>

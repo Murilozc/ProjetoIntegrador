@@ -1,0 +1,42 @@
+@model Pacotes
+@{
+    ViewData["Title"] = "Cadastro";
+}
+<div class="titulo2">
+<h1>Cadastro De Pacotes Turísticos</h1>
+<form method="POST" asp-action="Cadastro">
+    <p>
+        <label asp-for="Nome">Nome:</label>
+        <input asp-for="Nome" type="text"  required/>
+    </p>
+    
+    <p>
+        <label asp-for="Origem">Origem:</label>
+        <input asp-for="Origem" type="text"  required/>
+    </p>
+    
+    <p>
+        <label asp-for="Destino">Destino:</label>
+        <input asp-for="Destino"type="text"  required/>
+    </p>
+    
+    <p>
+        <label asp-for="Saida">Saída:</label>
+        <input asp-for="Saida"type="date"  required/>
+    </p>
+    <p>
+        <label asp-for="Valor">Valor:</label>
+        <input  asp-for="Valor"type="text" required/>
+    </p>
+
+<input type="submit" value="Cadastrar">
+<p>
+    @ViewBag.Mensagem
+</p>
+</form>
+</div>
+ <footer class="footer">
+        <div >
+            &copy; 2022 - Passagens Online - <a asp-area="" asp-controller="Home" asp-action="Index">Expresso União</a>
+        </div>
+</footer>

@@ -1,0 +1,66 @@
+﻿@using Microsoft.AspNetCore.Http;
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Expresso União</title>
+    <!--<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />-->
+    <link rel="icon" type="image/png" href="~/img/logo.png">
+    <link rel="stylesheet" href="~/css/estilo.css" />
+</head>
+
+<body>
+    <header >
+        <div class="cabecalho">
+             <div class="nav">
+            <div class="logo"></div>
+            <a  asp-area="" asp-controller="Home" asp-action="Index">Expresso União</a>
+
+            <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+
+            <a asp-area="" asp-controller="Pacotes" asp-action="PacotesDisponiveis">Passagens Disponíveis</a>
+
+            <a asp-area="" asp-controller="Pacotes" asp-action="Aempresa">A
+                Empresa</a>
+
+            <a asp-area="" asp-controller="Pacotes" asp-action="Fretamento">Fretamento e Turismo</a>
+
+            <a asp-area="" asp-controller="Pacotes" asp-action="FaleConosco">Fale
+                Conosco</a>
+
+            <a asp-area="" asp-controller="Pacotes" asp-action="Login">Login</a>
+
+            @if (Context.Session.GetInt32("Id") != null)
+            {
+                <a asp-area="" asp-controller="Pacotes" asp-action="Cadastro">Cadastro</a>
+            }
+            @if (Context.Session.GetInt32("Id") != null)
+            {
+                <a asp-area="" asp-controller="Pacotes" asp-action="Editar">Editar</a>
+            }
+            @if (Context.Session.GetInt32("Id") != null)
+            {
+                <a asp-area="" asp-controller="Pacotes" asp-action="Lista">Lista
+                    Passagens disponíveis</a>
+            }
+
+
+            @if (Context.Session.GetInt32("Id") != null)
+            {
+                <a asp-area="" asp-controller="Pacotes" asp-action="Logout">Logout</a>
+            }
+
+        </div>
+        </div>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+</body>
+
+</html>

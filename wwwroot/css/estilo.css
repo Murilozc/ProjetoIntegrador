@@ -1,0 +1,199 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding:0;
+    background-color: rgb(255, 255, 255);
+  }
+.footer{
+    background:rgb(0, 17, 170);
+    width: 100%;
+    height: 30px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    color: aliceblue;
+    }
+.footer2{
+  background:rgb(0, 17, 170);
+  width: 100%;
+  height: 30px;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  color: aliceblue;
+  }
+  .cabecalho{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(0, 17, 170);
+  
+  }
+  .nav {
+    text-align: center;
+    font: size 30px; ;
+    color:rgb(255, 255, 255);
+    padding: 10px;
+    background-color:rgb(0, 17, 170);
+  
+  
+  }
+
+.nav a:link{
+    text-decoration: none;
+    color: rgb(6, 131, 120);
+    margin: 15px;
+}
+.nav a:visited{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.nav a:active{
+    text-decoration: none;
+    color: rgb(70, 54, 216);
+}
+.logo{
+    width: 10%;
+    height: 100px;
+    background-image: url('../img/logo.png');
+    background-position: left;
+    background-size: cover;
+  
+  }
+.titulo1{
+    text-align:center;
+    color:rgb(0, 17, 170);
+    margin-top: 110px;
+    }
+    
+
+.slideshow-container {
+  max-width: 500px;
+  position:relative;
+  margin: auto;
+}
+
+
+.mySlides {
+  display: none;
+}
+
+
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+
+.text {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #f2f2f2;
+  font-size: 25px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+.titulo2{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 23px;
+  text-align: center;
+  color: rgb(0, 38, 255);
+  margin-top: 110px;
+}
+.texto{
+  text-align: justify;
+  text-align: center;
+}
+.imgonibus{
+  border-image: auto;
+  margin-left: 650px;
+}
+.viagens{
+  margin-left: 650px;
+}
+.textoviagens{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 23px;
+}
+.titulo3{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 23px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  margin-top: 110px;
+}
+.dica{
+  text-decoration: none;
+  border: 1px solid #666666;
+  background-color: #e6ffff;
+  padding: 5px;
+}
+{box-sizing:border-box}

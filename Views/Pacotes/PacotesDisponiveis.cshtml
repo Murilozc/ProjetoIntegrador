@@ -1,0 +1,31 @@
+@model List<Pacotes>
+@{
+    ViewData["Title"] = "Pacotes";
+}
+<body>
+    <div class="titulo2">
+    <h1>Principais Destinos Expresso União</h1>
+    <p>Compre sua passagem de ônibus online.</p>
+     </div>
+    <main>
+        <div >
+         @foreach (Pacotes p in Model)
+         {
+            <br>
+            <img class="viagens" height="350" width="600"src="https://catracalivre.com.br/wp-content/uploads/2021/04/passagem-de-onibus.jpg">
+            <br>
+            <div class="viagens">
+           <h6 class="textoviagens">@p.Nome</h6>
+           <p>Saindo de @p.Origem <br>Destino:@p.Destino<br>Saída: @p.Saida<br><br>valor: <br><b>@p.Valor R$</b></p>
+           <input type="submit" value="Comprar">
+          </div>
+         }
+    </div>
+    </main>
+   
+ <footer class="footer2">
+        <div class="footer">
+            &copy; 2022 - Passagens Online - <a asp-area="" asp-controller="Home" asp-action="Index">Expresso União</a>
+        </div>
+</footer>
+</body>

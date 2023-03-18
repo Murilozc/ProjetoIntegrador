@@ -1,0 +1,55 @@
+@model FretamentoeTurismo
+@{
+    ViewData["Title"] = "Fretamento e Turismo";
+}
+<div class="titulo2">
+<h1>Fretamento e Turismo</h1>
+<h2>Organize um passeio ou viagem e nós levamos você.</h2>
+<p>Realize um pedido de Orçamento.</p>
+<form method="POST">
+    <p>
+        <label asp-for="Nome">Nome Completo:</label>
+        <input asp-for="Nome" type="text" placeholder="Digite  seu nome" required/>
+    </p>
+    <p>
+        <label asp-for="Email">E-mail:</label>
+        <input asp-for="Email" type="text" placeholder="Digite  seu E-mail" required/>
+    </p>
+    <p>
+        <label asp-for="Celular">Celular:</label>
+        <input asp-for="Celular" type="tel" placeholder="Digite  seu Celular" >
+    </p>
+    <p>
+        <label asp-for="Telefone">Telefone:</label>
+        <input asp-for="Telefone" type="Tel" placeholder="Digite  seu Telefone" >
+    </p>
+    <p>
+        <label asp-for="CidadeOrigem">Cidade de Origem:</label>
+        <input asp-for="CidadeOrigem" type="text" placeholder="Digite  a cidade de saida" required/>
+    </p>
+    <p>
+        <label asp-for="CidadeDestino">Cidade de Destino:</label>
+        <input asp-for="CidadeDestino" type="text" placeholder="Digite a cidade de destino " required/>
+    </p>
+    <p>
+        <label asp-for="DataIda">Data de Ida:</label>
+        <input asp-for="DataIda" type="date" placeholder="Digite a data de saida " required/>
+    </p>
+    <p>
+        <label asp-for="DataVolta">Data de Volta:</label>
+        <input asp-for="DataVolta" type="date" placeholder="Digite a data de Volta " required/>
+    </p>
+    <p>
+        <label asp-for="Descricao">Descrição:</label>
+        <input asp-for="Descricao" type="text" placeholder="Detalhes da Viagem">
+    </p>
+    <input type="submit" value="Enviar">
+     <p>@ViewBag.FretamentoeTurismo</p>
+
+</form>
+</div>
+ <footer class="footer">
+        <div >
+            &copy; 2022 - Passagens Online - <a asp-area="" asp-controller="Home" asp-action="Index">Expresso União</a>
+        </div>
+</footer>

@@ -1,0 +1,138 @@
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.csprojAssemblyReference.cache
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.AssemblyInfoInputs.cache
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.AssemblyInfo.cs
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.csproj.CoreCompileInputs.cache
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.RazorAssemblyInfo.cache
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.RazorAssemblyInfo.cs
+D:\Desktop\ProjetoI4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Desktop\ProjetoI4\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Desktop\ProjetoI4\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Desktop\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.exe
+D:\Desktop\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.deps.json
+D:\Desktop\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.runtimeconfig.json
+D:\Desktop\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.runtimeconfig.dev.json
+D:\Desktop\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.dll
+D:\Desktop\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.pdb
+D:\Desktop\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.Views.dll
+D:\Desktop\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.Views.pdb
+D:\Desktop\ProjetoI4\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Desktop\ProjetoI4\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.TagHelpers.input.cache
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.TagHelpers.output.cache
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.RazorCoreGenerate.cache
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.RazorTargetAssemblyInfo.cache
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.RazorTargetAssemblyInfo.cs
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.Views.pdb
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.csproj.CopyComplete
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoI4.StaticWebAssets.Manifest.cache
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoI4.StaticWebAssets.xml
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.dll
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.pdb
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.genruntimeconfig.cache
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Login.cshtml.g.cs
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Cadastro.cshtml.g.cs
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Editar.cshtml.g.cs
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Lista.cshtml.g.cs
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\PacotesDisponiveis.cshtml.g.cs
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Aempresa.cshtml.g.cs
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Faleconosco.cshtml.g.cs
+D:\Desktop\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Fretamento.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.exe
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.deps.json
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.runtimeconfig.json
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.runtimeconfig.dev.json
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.dll
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.pdb
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.Views.dll
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.Views.pdb
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.csprojAssemblyReference.cache
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.AssemblyInfoInputs.cache
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.AssemblyInfo.cs
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.csproj.CoreCompileInputs.cache
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.RazorAssemblyInfo.cache
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.RazorAssemblyInfo.cs
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.TagHelpers.input.cache
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.TagHelpers.output.cache
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.RazorCoreGenerate.cache
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Aempresa.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Cadastro.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Editar.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\FaleConosco.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Fretamento.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Lista.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Login.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\PacotesDisponiveis.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.RazorTargetAssemblyInfo.cache
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.RazorTargetAssemblyInfo.cs
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.Views.pdb
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.csproj.CopyComplete
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoI4.StaticWebAssets.Manifest.cache
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoI4.StaticWebAssets.xml
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.dll
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.pdb
+D:\Desktop\infor\Projeto Int\modulo1\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.genruntimeconfig.cache
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.exe
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.deps.json
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.runtimeconfig.json
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.runtimeconfig.dev.json
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.dll
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.pdb
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.Views.dll
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\bin\Debug\netcoreapp3.1\ProjetoI4.Views.pdb
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.csprojAssemblyReference.cache
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.AssemblyInfoInputs.cache
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.AssemblyInfo.cs
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.csproj.CoreCompileInputs.cache
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.RazorAssemblyInfo.cache
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.RazorAssemblyInfo.cs
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.TagHelpers.input.cache
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.TagHelpers.output.cache
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.RazorCoreGenerate.cache
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Aempresa.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Cadastro.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Editar.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\FaleConosco.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Fretamento.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Lista.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Login.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\PacotesDisponiveis.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.RazorTargetAssemblyInfo.cache
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.RazorTargetAssemblyInfo.cs
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.Views.pdb
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.csproj.CopyComplete
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoI4.StaticWebAssets.Manifest.cache
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoI4.StaticWebAssets.xml
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.dll
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.pdb
+D:\Desktop\infor\Projeto Int\modulo2\ProjetoI4\obj\Debug\netcoreapp3.1\ProjetoI4.genruntimeconfig.cache
